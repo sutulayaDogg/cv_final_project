@@ -4,4 +4,4 @@
 Проект поделен на 2 ветки.
 В main лежит основная модель. Во second вторая вариация(проблемы с хвостом)
 
-Ссылки на видео https://disk.yandex.ru/d/9skoqzQdRgiFMA
+Ссылки на видео для обоих моделей https://disk.yandex.ru/d/9skoqzQdRgiFMA
